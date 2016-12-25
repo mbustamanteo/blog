@@ -26,7 +26,7 @@ Perturba encontrarse disfrutando una conversación gay de gays. Cualquier cosa q
 
 Difícil sería considerar este libro como lectura obligatoria en los colegios de monjas, por la homosexualidad, pero estoy seguro que los jóvenes responderían de alguna manera. En las lecturas obligatorias suelen verse desde obras maestras a libros con menos sabor que un clavo. Este libro no cabe en ninguna de esas. Es un combo en el hocico, agresivo y directo. Lejano de la ciencia ficción gringa, lejos de Macondo y de Baldomero Lillo, este libro se siente real, se siente como si fuera no ficción.
 
-######Detalles
+**Detalles**
 
 - **Título**: No Ficción
 - **Autor**: Alberto Fuguet

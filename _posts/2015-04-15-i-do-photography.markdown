@@ -6,9 +6,11 @@ tags:
 - english
 ---
 
-‘
+<div class="post-image">
+    <img src="https://68.media.tumblr.com/52fb9682ff7e374253cb76df1d73f962/tumblr_inline_nmvqjsyqPC1t4pc53_540.jpg" alt="San Francisco" />
+    <p class="post-image-caption">Market Street, San Francisco.</p>
+</div>
 
-![image](https://68.media.tumblr.com/52fb9682ff7e374253cb76df1d73f962/tumblr_inline_nmvqjsyqPC1t4pc53_540.jpg)
 
 Of all the hobbies I've tried: playing football, playing guitar, practicing keyboard, writing, drawing and painting, Photography is the one I can feel as my own. One thing that irritates me of all the activities with some creative element -like writing or drawing- is that in order to improve and feel better doing them is that _you have to express yourself_. "let the inner voice come out and do the work", "connect with your feelings", "let yourself go" or something like that is repeated multiple times on the internet as a way to overcome the difficulties of the beginner.
 

@@ -6,7 +6,10 @@ tags:
 - chile
 ---
 
-![image](https://68.media.tumblr.com/29fc0aa2ea84f63e897fdce04149a0ca/tumblr_inline_nmxm20z0eO1t4pc53_540.jpg)
+<div class="post-image">
+    <img src="https://68.media.tumblr.com/29fc0aa2ea84f63e897fdce04149a0ca/tumblr_inline_nmxm20z0eO1t4pc53_540.jpg" alt="San Francisco" />
+    <p class="post-image-caption">Parque Bicentenario, Santiago de Chile.</p>
+</div>
 
 Los chilenos, los jaguares de latinoamérica. Siempre me ha molestado ese sobrenombre por lo sarcástico y odio que es, pero también porque evidencia una separación de mi país con la región que al parecer es verdad.
 
